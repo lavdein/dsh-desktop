@@ -60,7 +60,7 @@
   },
   "devDependencies": {
     "@electron/rebuild": "^4.0.2",
-    "electron": "^42.4.1",
+    "electron": "^42.11.16",
     "electron-builder": "^26.0.12",
     "patch-package": "^8.0.1"
   },

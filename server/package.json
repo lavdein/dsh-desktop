@@ -59,7 +59,7 @@
     "ds-harness-remote": "0.4.13",
     "dsh-multimedia-webui-input": "0.1.0",
     "dshmarket": "1.17.1",
-    "express": "^4.21.2",
+    "express": "^4.22.3",
     "jszip": "^3.10.1",
     "mammoth": "^1.12.0",
     "mssql": "^12.5.5",
@@ -73,7 +73,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "semver": "7.8.5",
-    "undici": "7.29.0",
+    "undici": "7.30.2",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
   "overrides": {
@@ -85,6 +85,6 @@
   },
   "devDependencies": {
     "@vibeinging/dsh-session-teams": "0.1.2",
-    "dsh-better-sidebar": "0.19.0"
+    "dsh-better-sidebar": "0.33.0"
   }
 }
